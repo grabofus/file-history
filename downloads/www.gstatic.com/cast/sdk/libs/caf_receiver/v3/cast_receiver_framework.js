@@ -1,6 +1,6 @@
 (function(){var _=window.caf_={};/*
 
- Copyright The Closure Library Authors. test
+ Copyright The Closure Library Authors.
  SPDX-License-Identifier: Apache-2.0
 */
 /*
